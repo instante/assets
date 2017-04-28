@@ -1,0 +1,30 @@
+{
+    "name": "instante/assets",
+    "type": "library",
+    "description": "Instante assets adds useful macros to works with assets in www directory",
+    "keywords": [
+        "nette",
+        "instante",
+        "assets"
+    ],
+    "license": [
+        "BSD-3-Clause",
+        "GPL-2.0",
+        "GPL-3.0"
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "nette/DI": "~2.4",
+        "nette/caching": "~2.4",
+        "latte/latte": "~2.4"
+    },
+    "require-dev": {
+        "jakub-onderka/php-parallel-lint": "~0.9",
+        "instante/php-test-suite": "@dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "Instante\\Assets\\": "src/"
+        }
+    }
+}
