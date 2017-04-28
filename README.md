@@ -26,7 +26,7 @@ $ composer require instante/assets
 Then add new extension to neon configuration
 ```neon
 extensions:
-    assets: Instante\Assets\DI\AssetMacrosExtension
+    assets: Instante\Assets\DI\AssetExtension
 ```
 
 Usage
