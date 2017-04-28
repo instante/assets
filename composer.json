@@ -1,7 +1,7 @@
 {
     "name": "instante/assets",
     "type": "library",
-    "description": "Instante assets adds useful macros to works with assets in www directory",
+    "description": "Instante assets adds useful macros to work with assets in www directory",
     "keywords": [
         "nette",
         "instante",
