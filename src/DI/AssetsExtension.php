@@ -1,6 +1,6 @@
 <?php
 
-namespace Instante\DI\Assets;
+namespace Instante\Assets\DI;
 
 use Instante\Assets\AssetMacroHelper;
 use Instante\Assets\AssetMacros;
